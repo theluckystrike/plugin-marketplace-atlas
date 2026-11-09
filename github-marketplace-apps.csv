@@ -1,0 +1,16 @@
+app,plans,github_billed_paid_plans_usd_month,direct_billing_plans,installs,url,source_url,fetched,value_status
+render,1,,,5213395,https://github.com/marketplace/render,https://github.com/marketplace/render,2026-11-09,F
+lovablebot,1,,,2563282,https://github.com/marketplace/lovablebot,https://github.com/marketplace/lovablebot,2026-11-09,F
+gitguardian,1,,,590713,https://github.com/marketplace/gitguardian,https://github.com/marketplace/gitguardian,2026-11-09,F
+opencode-copilot,1,,,578254,https://github.com/marketplace/opencode-copilot,https://github.com/marketplace/opencode-copilot,2026-11-09,F
+google-cloud-build,1,,$0,432725,https://github.com/marketplace/google-cloud-build,https://github.com/marketplace/google-cloud-build,2026-11-09,F
+circleci,1,,,421880,https://github.com/marketplace/circleci,https://github.com/marketplace/circleci,2026-11-09,F
+jira-software-github,1,,,406293,https://github.com/marketplace/jira-software-github,https://github.com/marketplace/jira-software-github,2026-11-09,F
+slack-github,1,,,402562,https://github.com/marketplace/slack-github,https://github.com/marketplace/slack-github,2026-11-09,F
+azure-pipelines,1,,,387118,https://github.com/marketplace/azure-pipelines,https://github.com/marketplace/azure-pipelines,2026-11-09,F
+sonarcloud,1,,,379065,https://github.com/marketplace/sonarcloud,https://github.com/marketplace/sonarcloud,2026-11-09,F
+coderabbitai,4,$30; $60; $90,,366575,https://github.com/marketplace/coderabbitai,https://github.com/marketplace/coderabbitai,2026-11-09,F
+linear,1,,,364605,https://github.com/marketplace/linear,https://github.com/marketplace/linear,2026-11-09,F
+aws-connector-for-github,1,,,294649,https://github.com/marketplace/aws-connector-for-github,https://github.com/marketplace/aws-connector-for-github,2026-11-09,F
+linear-code,1,,,280601,https://github.com/marketplace/linear-code,https://github.com/marketplace/linear-code,2026-11-09,F
+snyk,1,,,249833,https://github.com/marketplace/snyk,https://github.com/marketplace/snyk,2026-11-09,F

@@ -1,0 +1,16 @@
+server,name,use_count,verified,remote,created,url,source_url,fetched,value_status
+pipeworx/gateway,pipeworx gateway,419019,False,True,2026-04-22,https://smithery.ai/server/pipeworx/gateway,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+henry-ships/sparkforge,SparkForge,219896,False,True,2026-03-01,https://smithery.ai/server/henry-ships/sparkforge,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+brave,Brave Search,87579,True,True,2025-09-05,https://smithery.ai/server/brave,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+bouch/uk-due-diligence,uk-due-diligence,60881,False,True,2026-04-29,https://smithery.ai/server/bouch/uk-due-diligence,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+adamamer20/paper-search-mcp-openai,Paper Search,59106,False,True,2025-09-18,https://smithery.ai/server/adamamer20/paper-search-mcp-openai,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+gmail,Gmail,57738,True,True,2025-11-26,https://smithery.ai/server/gmail,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+googlesheets,Google Sheets,56138,True,True,2025-11-19,https://smithery.ai/server/googlesheets,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+theagenttimes/news,Agent News,43392,True,True,2026-02-09,https://smithery.ai/server/theagenttimes/news,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+pubmed,PubMed,42137,True,True,2026-03-27,https://smithery.ai/server/pubmed,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+fenglucc/ko-financial-data,ko-financial-data,40620,False,True,2026-06-29,https://smithery.ai/server/fenglucc/ko-financial-data,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+jordan-s648/PolymarketScan,Polymarket Data by PolymarketScan,39483,False,True,2026-04-13,https://smithery.ai/server/jordan-s648/PolymarketScan,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+oobe-protocol/sap-mcp,sap-mcp,34350,False,True,2026-07-13,https://smithery.ai/server/oobe-protocol/sap-mcp,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+emblemai/emblem-mcp,emblem-mcp,25084,False,True,2026-05-11,https://smithery.ai/server/emblemai/emblem-mcp,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+creativelead/unclick,UnClick,24706,False,True,2026-04-09,https://smithery.ai/server/creativelead/unclick,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
+onesignal/onesignal,OneSignal,22491,True,True,2026-03-10,https://smithery.ai/server/onesignal/onesignal,https://registry.smithery.ai/servers?page=1&pageSize=100,2026-11-09,F
