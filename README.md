@@ -1,8 +1,8 @@
-# Plugin Marketplace Atlas 2026
+# Where to Sell Plugins (Plugin Marketplace Atlas 2026)
 
 ![Plugin Marketplace Atlas 2026 cover](charts/cover.png)
 
-Fees, payouts, review times and real sales numbers for 24 plugin and app stores: Figma, JetBrains, Apify, Chrome, Google Workspace, WordPress, Atlassian, GitHub Marketplace, Shopify, Gumroad, MCP directories and more. Data read from each store's own API or pages on 9 November 2026.
+Where to sell plugins, extensions and apps, with real plugin sales data. Fees, payouts, review times and sales numbers for 24 plugin and app stores: Figma, JetBrains, Apify, Chrome, Google Workspace, WordPress, Atlassian, GitHub Marketplace, Shopify, Gumroad, MCP directories and more. Data read from each store's own API or pages on 9 November 2026.
 
 This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report. It costs USD 12 a month on GitHub Sponsors, and each month brings a refreshed edition. Sponsor for one month, download it, and the data stays yours to use.
 
