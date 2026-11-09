@@ -6,7 +6,7 @@ Edition 2026-11. All data read on 9 November 2026.
 |---|---|
 | Figma Community | Figma search API with the paid filter, about 80 queries; price and purchase_count per plugin. |
 | JetBrains Marketplace | Plugin search API (paid and freemium, by downloads), the price endpoint and the version list. |
-| Apify Store | Store API: top 100 by popularity and 19 keyword searches. |
+| Apify Store | Store API: top 100 by popularity and 18 keyword searches. |
 | WordPress.org | Plugin info API, 23 searches. |
 | Gumroad | Discover search, then sales_count from each product page. |
 | Chrome Web Store, Google Workspace | Search pages, then each detail page. |

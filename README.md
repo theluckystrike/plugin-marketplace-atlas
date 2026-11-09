@@ -2,7 +2,7 @@
 
 ![Plugin Marketplace Atlas 2026 cover](charts/cover.png)
 
-Fees, payouts, review times and real sales numbers for 24 plugin and app stores: Figma, JetBrains, Apify, Chrome, Google Workspace, WordPress, Atlassian, GitHub Marketplace, Shopify, Gumroad, MCP directories and more. Data read from each store's own API on 9 November 2026.
+Fees, payouts, review times and real sales numbers for 24 plugin and app stores: Figma, JetBrains, Apify, Chrome, Google Workspace, WordPress, Atlassian, GitHub Marketplace, Shopify, Gumroad, MCP directories and more. Data read from each store's own API or pages on 9 November 2026.
 
 This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report. It costs USD 12 a month on GitHub Sponsors, and each month brings a refreshed edition. Sponsor for one month, download it, and the data stays yours to use.
 
@@ -12,7 +12,7 @@ This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report
 
 - Most new paid plugins sell nothing: 60 % of the 369 paid Figma plugins created since 2025 show zero purchases.
 - The winners are large: the top Figma plugin by gross shows 6,725 purchases at USD 39.
-- JetBrains paid plugins: median 33,506 downloads, median USD 19 a year personal.
+- JetBrains paid plugins: median 33,506 downloads, median USD 20 a year personal.
 - Which stores pay sellers in countries without Stripe, checked store by store.
 
 ![Figma paid plugins created in 2025 or later, by lifetime gross](charts/fig-new-cohort.png)
