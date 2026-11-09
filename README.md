@@ -4,9 +4,9 @@
 
 Fees, payouts, review times and real sales numbers for 24 plugin and app stores: Figma, JetBrains, Apify, Chrome, Google Workspace, WordPress, Atlassian, GitHub Marketplace, Shopify, Gumroad, MCP directories and more. Data read from each store's own API on 9 November 2026.
 
-This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report; it costs USD 24 once on GitHub Sponsors and includes the December 2026 refresh.
+This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report. It costs USD 12 a month on GitHub Sponsors, and each month brings a refreshed edition. Sponsor for one month, download it, and the data stays yours to use.
 
-[Get the full Atlas (USD 24)](https://github.com/sponsors/theluckystrike) 
+[Get the full Atlas (USD 12 a month)](https://github.com/sponsors/theluckystrike/sponsorships?tier_id=680014)
 
 ## What you learn from it
 
@@ -33,7 +33,7 @@ This repo is the free sample. The full Atlas has 3,169 rows and a 24-page report
 | `mcp-servers-smithery.csv` | first 15 rows | 261 rows |
 | `stores.csv` / `stores.md` | fee and review time | all 15 columns: payouts, minimums, timing, merchant of record, sign-up steps, listing rules, non-Stripe payout |
 | `ATLAS-2026-11.pdf` | - | the full report with charts |
-| December 2026 refresh | - | included |
+| Monthly refresh | - | included while you sponsor |
 
 Every row in both versions has `source_url`, `fetched` and `value_status` (F = the store's own API or page, reported = a third-party page, E = estimate).
 
@@ -43,9 +43,9 @@ See [METHOD.md](METHOD.md). In short: public store APIs and pages, read once on 
 
 ## How buying works
 
-1. Open [GitHub Sponsors](https://github.com/sponsors/theluckystrike) and pick the one-time "Plugin Marketplace Atlas 2026" tier (USD 24).
-2. GitHub gives your account read access to the private repo `theluckystrike/plugin-marketplace-atlas-full` right away.
-3. Clone it or download the ZIP. The December refresh appears in the same repo.
+1. Open the [Atlas tier on GitHub Sponsors](https://github.com/sponsors/theluckystrike/sponsorships?tier_id=680014) (USD 12 a month).
+2. GitHub gives your account read access to the private repo `zovo-one/plugin-marketplace-atlas-full` right away.
+3. Clone it or download the ZIP. Each monthly refresh appears in the same repo. Cancel any time in your GitHub settings; files you downloaded stay yours to use.
 
 ## Licence
 
